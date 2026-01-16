@@ -19,24 +19,3 @@
             <li class="nav-item"><a href="#" class="nav-link">Sede electrónica</a></li>
         </ul>
     </header>
-    <main class="container d-flex me-md-auto">
-        <div class="col-lg-6 px-3">
-            <h1 class="display-4 fst-italic">¡Bienvenido al mundo del seguro de automóvil fiable!</h1> 
-            <p class="lead my-3"><a href="#" class="text-body-emphasis fw-bold">Tramitación rápida</a>, condiciones transparentes y asistencia 24/7. Proteja su vehículo hoy mismo.</p>
-        </div>
-        <div class="col-lg-6 px-3">
-            <img src="img/public.svg" class="img-responsive" alt="public" width="600">
-        </div>
-    </main>
-    <footer class="p-3 my-4">
-        <ul class="nav justify-content-end border-bottom py-3 mb-3">
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Inicio</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2">Quiénes somos</a></li>
-            <li class="nav-item"><a href="#" class="nav-link px-2">Contacto</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Sede electrónica</a></li>
-        </ul> 
-        <p class="text-center text-body-secondary">© 2026 Vita Poperechna</p>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
-</body>
-</html>
