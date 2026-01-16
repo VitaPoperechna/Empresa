@@ -13,8 +13,8 @@
             <span class="fs-4">Empresa de seguro</span>
         </a>
         <ul class="nav nav-pills align-content-center">
-            <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Inicio</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Quiénes somos</a></li>
+            <li class="nav-item"><a href="/empresa/index.php" class="nav-link active" aria-current="page">Inicio</a></li>
+            <li class="nav-item"><a href="/empresa/quienes-somos.php" class="nav-link">Quiénes somos</a></li>
             <li class="nav-item"><a href="#" class="nav-link">Contacto</a></li>
             <li class="nav-item"><a href="#" class="nav-link">Sede electrónica</a></li>
         </ul>
