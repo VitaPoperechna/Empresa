@@ -80,7 +80,7 @@
             </p>
           </div>
           <div class="col-md-4 text-md-end mt-3 mt-md-0">
-            <a href="#" class="btn btn-primary btn-lg">Conócenos mejor</a>
+            <a href="/empresa/contacto.php" class="btn btn-primary btn-lg">Conócenos mejor</a>
           </div>
         </div>
       </div>
