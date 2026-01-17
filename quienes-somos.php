@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">
-            <h2 class="fw-bold mb-3">Compañía de seguros creada para conductores</h2>
+            <h2>Compañía de seguros creada para conductores</h2>
             <p>
               Somos una compañía especializada en seguros de automóviles que se fundó con un objetivo claro:
               ofrecer soluciones sencillas y transparentes, adaptadas a las necesidades reales
@@ -74,7 +74,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-8">
-            <h2 class="fw-bold">Conduce con la tranquilidad de estar bien asegurado</h2>
+            <h2>Conduce con la tranquilidad de estar bien asegurado</h2>
             <p class="text-muted mb-0">
               Descubre nuestras soluciones y encuentra el seguro que mejor se adapta a ti.
             </p>
